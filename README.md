@@ -20,8 +20,8 @@ Sistema distribuído de monitoramento de máquinas em rede desenvolvido em Java 
 
 1. Felipe Barros Ratton de Almeida
 2. Laura Menezes Heráclito Alves
-3. Mateus Ribeiro ~
-4. Matheus Henrique ~
+3. Mateus Ribeiro Fernandes
+4. Matheus Henrique Gonçalves
 5. Vitor de Meira Gomes
 
 ---

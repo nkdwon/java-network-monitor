@@ -1,0 +1,15 @@
+# Compilação Java
+bin/
+
+# Arquivos compilados
+*.class
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log

@@ -158,6 +158,10 @@ O projeto atende aos seguintes requisitos da disciplina:
 
 ---
 
-## Status do Projeto
+## Vídeo de Apresentação
 
-🚧 Em desenvolvimento.
+
+https://github.com/user-attachments/assets/2a7a88f4-01b2-4e35-81fa-32a659e30a5d
+
+
+
